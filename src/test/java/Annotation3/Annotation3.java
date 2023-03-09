@@ -1,11 +1,11 @@
-package Annotation_3;
+package Annotation3;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 import java.util.stream.Stream;
 
-public class Annotation_3 extends BasicClass {
+public class Annotation3 extends BasicClass {
     static Stream<Arguments> methodSourceExampleTest() {
         return Stream.of(
                 Arguments.of("Elena", "Semenova", "kochkurova.en@gmail.com", "9829306853", "Russia",

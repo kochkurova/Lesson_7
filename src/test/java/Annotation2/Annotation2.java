@@ -1,11 +1,11 @@
-package Annotation_2;
+package Annotation2;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.*;
 
-public class Annotation_2 {
+public class Annotation2 {
 
     @DisplayName("Поиск работы, исключение результатов выдачи слов")
 
