@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="annotation3.Annotation3" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-09T14:56:05" hostname="DESKTOP-0N1ELEL" time="26.351">
+  <properties/>
+  <testcase name="Заполняем форму тестовыми данными Semenova Elena" classname="annotation3.Annotation3" time="14.104"/>
+  <testcase name="Заполняем форму тестовыми данными Karpov Valeriy" classname="annotation3.Annotation3" time="6.553"/>
+  <testcase name="Заполняем форму тестовыми данными Krasnova Svetlana" classname="annotation3.Annotation3" time="5.688"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 31246
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1678373768.988][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+мар. 09, 2023 8:56:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: 108
+]]></system-err>
+</testsuite>

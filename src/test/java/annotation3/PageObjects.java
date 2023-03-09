@@ -1,4 +1,4 @@
-package Annotation3;
+package annotation3;
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
