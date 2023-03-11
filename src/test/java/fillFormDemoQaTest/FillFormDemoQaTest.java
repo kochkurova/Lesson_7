@@ -1,11 +1,13 @@
-package annotation3;
+package fillFormDemoQaTest;
+
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
+
 import java.util.stream.Stream;
 
-public class Annotation3 extends BasicClass {
+public class FillFormDemoQaTest extends BasicClass {
     static Stream<Arguments> methodSourceExampleTest() {
         return Stream.of(
                 Arguments.of("Elena", "Semenova", "kochkurova.en@gmail.com", "9829306853", "Russia",
@@ -28,7 +30,6 @@ public class Annotation3 extends BasicClass {
 
 
     @ParameterizedTest(name = "Заполняем форму тестовыми данными {1} {0}")
-
     void homework(String firstName, String lastName, String userEmail, String userNumber, String currentAddress,
                   String subjectsInput, String state, String city, String hobbies, String gender, String pictureName,
                   String dateOfBirth, String day, String month, String year) {

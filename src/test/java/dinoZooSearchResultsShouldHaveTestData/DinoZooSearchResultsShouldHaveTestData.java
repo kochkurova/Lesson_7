@@ -1,11 +1,11 @@
-package annotation1;
+package dinoZooSearchResultsShouldHaveTestData;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.*;
 import org.junit.jupiter.params.provider.*;
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.*;
-public class Annotation1 {
+public class DinoZooSearchResultsShouldHaveTestData {
 
     @DisplayName("Наличие корма Ontario на сайте DinoZoo")
 
