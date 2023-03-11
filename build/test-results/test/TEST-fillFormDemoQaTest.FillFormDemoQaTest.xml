@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fillFormDemoQaTest.FillFormDemoQaTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-11T09:14:23" hostname="DESKTOP-0N1ELEL" time="21.69">
+  <properties/>
+  <testcase name="Заполняем форму тестовыми данными Semenova Elena" classname="fillFormDemoQaTest.FillFormDemoQaTest" time="11.645"/>
+  <testcase name="Заполняем форму тестовыми данными Karpov Valeriy" classname="fillFormDemoQaTest.FillFormDemoQaTest" time="5.135"/>
+  <testcase name="Заполняем форму тестовыми данными Krasnova Svetlana" classname="fillFormDemoQaTest.FillFormDemoQaTest" time="4.904"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 16757
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+мар. 11, 2023 3:14:26 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+]]></system-err>
+</testsuite>
