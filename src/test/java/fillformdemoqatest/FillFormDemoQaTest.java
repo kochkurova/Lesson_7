@@ -1,4 +1,4 @@
-package fillFormDemoQaTest;
+package fillformdemoqatest;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;

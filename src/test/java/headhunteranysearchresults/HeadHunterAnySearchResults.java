@@ -1,11 +1,11 @@
-package headHunterSearchResultsWithExceptionShouldHaveAnyResults;
+package headhunteranysearchresults;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.*;
 
-public class HeadHunterSearchResultsWithExceptionShouldHaveAnyResults {
+public class HeadHunterAnySearchResults {
 
     @DisplayName("Поиск работы, исключение результатов выдачи слов")
 
